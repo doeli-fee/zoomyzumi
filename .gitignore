@@ -1,8 +1,5 @@
-# Visual Studio 2015 user specific files
+ # Visual Studio 2015 user specific files
 .vs/
-
-# Visual Studio 2015 database file
-*.VC.db
 
 # Compiled Object files
 *.slo
@@ -75,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Put the folder name of any content packs you added to the project here
+Content/StarterContent/*
